@@ -1,3 +1,4 @@
+
 body {
     font-family: 'Arial', sans-serif;
     margin: 0;
@@ -16,14 +17,14 @@ body {
     max-width: 500px;
     background-color: rgba(0, 0, 0, 0.650);
     padding: 40px;
-    border-radius: 5px;
+    border-radius: 25px;
     box-shadow: 0px 3px 10px rgba(255, 255, 255, 0.1);
     text-align: center;
   }
   
   h1 {
-    font-size: 32px;
-    color: #ffffff;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
     margin-bottom: 30px;
   }
   
@@ -53,7 +54,7 @@ body {
   button {
     width: 100%;
     padding: 12px;
-    background-color: #198a7b;
+    background-color: #5368ba;
     color: #ffffff;
     border: none;
     border-radius: 5px;
@@ -63,7 +64,7 @@ body {
   }
   
   button:hover {
-    background-color: #44afa1;
+    background-color: rgb(61, 56, 169);
   }
   
   button:focus {
@@ -82,7 +83,7 @@ body {
   button {
     width: 50%; 
     padding: 10px; 
-    background-color: #198a7b;
+    background-color: #37198a;
     color: #ffffff;
     border: none;
     border-radius: 5px;
